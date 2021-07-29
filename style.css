@@ -1,0 +1,40 @@
+*{
+	/*outline: 1px dotted red;*/
+	font-family: 'Oswald', sans-serif;
+
+}
+h3{
+	padding-bottom: 20px;
+}
+.color-azul{
+	color: #425efb;
+}
+input{
+	text-transform: uppercase;
+}
+label{
+	text-transform: uppercase;
+}
+.num-temp{
+	font-size: 70px;
+	font-weight: bold;
+	margin-top: 40px;
+}
+.btn{
+	background-color: #2435cf; 
+	width: 100%;
+}
+#img{
+	width: 100px;
+	height: 100px;
+	margin: 0px auto;
+}
+p{
+	font-size: 24px;
+}
+span{
+	font-size: 24px;
+}
+.laAppi{
+	font-size: 12px;
+}
